@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**hollyjanedalton/hollyjanedalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Holly and I'm a Data Analyst from the US, based in Spain. 
 
 - 🔭 I’m currently working on a GIS-focused data project for September... coming soon! 
 - :zap: I love math, programming, data viz, and reading big novels that take a long time to finish (currently Midnight's Children)
