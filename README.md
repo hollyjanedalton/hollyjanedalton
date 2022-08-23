@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Holly and I'm a Data Analyst from the US, based in Spain. 
 
 - 🔭 I’m currently working on a GIS-focused data project for September... coming soon! 
-- :zap: I love programming, maps/geography, beach volleyball & thick novels that take a long time to finish
+- :zap: I love programming, maps/geography, beach volleyball & thick novels that take a long time to read
 - 🌱 I’m addicted to learning and growing everyday
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
