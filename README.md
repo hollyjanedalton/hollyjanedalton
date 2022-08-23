@@ -8,3 +8,6 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
   - :pencil2: [E-mail](hjdalton89@gmail.com)
    - :bulb: [Portfolio](https://hollydalton.netlify.app/)
+
+
+[![Holly's github stats](https://github-readme-stats.vercel.app/api?username=hollyjanedalton&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/hollyjanedalton/github-readme-stats)
