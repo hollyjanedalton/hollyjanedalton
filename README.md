@@ -9,7 +9,7 @@
 - 📫 How to contact me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
   - :pencil2: [E-mail](hjdalton89@gmail.com)
-  - :bulb: [Portfolio](https://hollydalton.netlify.app/)
+  - :bulb: [Web Dev Portfolio](https://hollydalton.netlify.app/)
   
 
 
