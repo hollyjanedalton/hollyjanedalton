@@ -9,7 +9,7 @@
   - 🎶 [Spotify Song Recommender(Group Project)](https://github.com/hollyjanedalton/GNOD_project)
 - 📫 How to contact me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
-  - :pencil2: [E-mail](hjdalton89@gmail.com)
+  - :pencil2: hjdalton89@gmail.com
   - :bulb: [Web Dev Portfolio](https://hollydalton.netlify.app/) (Yes... I know some Front-end, too!)
   
 
