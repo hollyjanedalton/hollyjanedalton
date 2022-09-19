@@ -4,8 +4,8 @@
 - :zap: I love programming, maps/geography and beach volleyball
 - 🌱 I’m addicted to learning and growing everyday
 - 📊 Repos for my most recent data projects:
-  - ☕️ [Analyzing Starbucks Locations](https://github.com/hollyjanedalton/final_ironhack_project)
-  - 💳 [Improving the sign-up rate of Hawkins Bank credit card offer](https://github.com/hollyjanedalton/mid_bootcamp_project)
+  - ☕️ [Analyzing Starbucks Locations with web scraped population data](https://github.com/hollyjanedalton/final_ironhack_project)
+  - 💳 [Machine learning to improve the sign-up rate of Hawkins Bank credit card offer](https://github.com/hollyjanedalton/mid_bootcamp_project)
   - 🎶 [Spotify Song Recommender(Group Project)](https://github.com/hollyjanedalton/GNOD_project)
 - 📫 How to contact me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
