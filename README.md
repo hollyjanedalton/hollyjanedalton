@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Holly and I'm a Data Analyst from Baltimore, USA
 
-- 🌎 I’m currently working on a GIS-focused data project for September... coming soon! 
+- 🌎 I’m currently working on a GIS-focused data project for the fall... coming soon! 
 - :zap: I love programming, maps/geography and beach volleyball
 - 🌱 I’m addicted to learning and growing everyday
 - 📊 Repos for my most recent data projects:
