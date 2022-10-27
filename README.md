@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Holly and I'm a Data Analyst from Baltimore, USA
-
-- 🌎 I’m currently working on a GIS-focused data project for the fall... coming soon! 
+ 
 - :zap: I love programming, maps/geography and beach volleyball
 - 🌱 I’m addicted to learning and growing everyday
+- 🌎 I volunteer with OpenStreetMap and seeking opportunties in geospatial data science!
 - 📊 Repos for my most recent data projects:
   - ☕️ [Analyzing Starbucks Locations with web scraped population data](https://github.com/hollyjanedalton/final_ironhack_project)
   - 💳 [Machine learning to improve the sign-up rate of Hawkins Bank credit card offer](https://github.com/hollyjanedalton/mid_bootcamp_project)
