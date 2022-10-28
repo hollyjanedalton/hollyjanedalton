@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Holly and I'm a Data Analyst from Baltimore, USA
+### Hi there 👋 I'm Holly and I'm a Data Analyst from Baltimore
  
 - :zap: I love programming, maps/geography and beach volleyball
 - 🌱 I’m addicted to learning and growing everyday
