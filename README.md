@@ -8,8 +8,8 @@
   - 💳 [Machine learning to improve the sign-up rate of Hawkins Bank credit card offer](https://github.com/hollyjanedalton/mid_bootcamp_project)
   - 🎶 [Spotify Song Recommender(Group Project)](https://github.com/hollyjanedalton/GNOD_project)
 - 👩🏽‍💻 I also studied web development and had a lot of fun building these apps:
- - ⚡️ [Weather app](https://determined-roentgen-435a98.netlify.app/)
- - 📖 [Dictionary app](https://react-dictionary-hollydalton.netlify.app/)
+  - ⚡️ [Weather app](https://determined-roentgen-435a98.netlify.app/)
+  - 📖 [Dictionary app](https://react-dictionary-hollydalton.netlify.app/)
 
 - 📫 How to contact me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
