@@ -2,7 +2,6 @@
  
 - :zap: I love programming, maps/geography and playing beach volleyball
 - 🌱 I’m addicted to learning and growing everyday
-- 🌎 I volunteer with OpenStreetMap and I'm seeking opportunities in geospatial data science!
 - 📊 Repos for my most recent data projects:
   - ☕️ [Analyzing Starbucks Locations with web scraped population data](https://github.com/hollyjanedalton/final_ironhack_project)
   - 💳 [Machine learning to improve the sign-up rate of Hawkins Bank credit card offer](https://github.com/hollyjanedalton/mid_bootcamp_project)
