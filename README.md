@@ -13,7 +13,6 @@
 - 📫 How to contact me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
   - :pencil2: Email: hjdalton89@gmail.com
-  - :bulb: [Web Dev Portfolio](https://hollydalton.netlify.app/)
   
 
 
