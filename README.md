@@ -12,7 +12,7 @@
 
 - 📫 How to contact me:
   - :office: [LinkedIn](https://www.linkedin.com/in/holly-jane-dalton/)
-  - :pencil2: Email: hjdalton89@gmail.com
+  - :pencil2: hjdalton89@gmail.com
   
 
 
