@@ -3,9 +3,9 @@
 - :zap: I love programming, maps/geography and playing beach volleyball
 - 🌱 I’m addicted to learning and growing everyday
 - 📊 Repos for my most recent data projects:
-  - ☕️ [Are U.S. Coffee Drinkers really Starbucks' #1 Fans?](https://github.com/hollyjanedalton/final_ironhack_project)
-  - 💳 [How to increase the sign-up rate of a credit card mailing campaign](https://github.com/hollyjanedalton/mid_bootcamp_project)
-  - 💡 [My LinkedIn Connections data Tableau challenge](https://public.tableau.com/views/LinkedInData_16624718295560/LinkedInData?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - ☕️ [Are U.S. Coffee Drinkers Really Starbucks' #1 Fans?](https://github.com/hollyjanedalton/final_ironhack_project)
+  - 💳 [How to Increase the Sign-up Rate of a Credit Card Mailing Campaign](https://github.com/hollyjanedalton/mid_bootcamp_project)
+  - 💡 [My LinkedIn Connections Data Tableau Challenge](https://public.tableau.com/views/LinkedInData_16624718295560/LinkedInData?:language=en-US&:display_count=n&:origin=viz_share_link)
   - 🎶 [Spotify Song Recommender(Group Project)](https://github.com/hollyjanedalton/GNOD_project)
 - 👩🏽‍💻 I also studied web development and had a lot of fun building these apps:
   - ⚡️ [Weather app](https://determined-roentgen-435a98.netlify.app/)
