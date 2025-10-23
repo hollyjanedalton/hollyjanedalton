@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Holly and I'm a Data Analyst currently working in the Office of Human Capital at Baltimore City Public Schools
  
-- :zap: I love building data visualizations, maps/geography and playing beach volleyball
+- :zap: I love building data tools that help drive Human Capital Strategy
 - 🌱 I’m learning and growing as a Data Analyst everyday
 - 📊 Repos for my personal data projects:
   - ☕️ [Are U.S. Coffee Drinkers Really Starbucks' #1 Fans?](https://github.com/hollyjanedalton/final_ironhack_project)
